@@ -29,5 +29,7 @@ double_pendulum experiment data prediction
 
 
 pinn-sr.py for train continous-time model
+
 ng-rc.py for train decrete-time model
+
 DFM.py for deep fusion model
